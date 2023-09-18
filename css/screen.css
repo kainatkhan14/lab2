@@ -14,7 +14,7 @@ form {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     max-width: 400px;
     margin: 0 auto;
-    border: 2px solid #007bff; /* Add a border with your preferred color */
+    border: 2px solid #000000;
 }
 
 .form-group {
