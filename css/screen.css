@@ -1,12 +1,11 @@
-/* Add this CSS to style your registration form with background color and borders */
-
+/* CSS page */
 body {
     font-family: Arial, sans-serif;
-    background-color: #616A6B; /* Change to your preferred background color */
+    background-color: #616A6B; 
     margin: 0;
     padding: 0;
 }
-/* Style the form title */
+/* Style the form */
 h1 {
     text-align: center;
     font-size: 24px;
@@ -22,7 +21,6 @@ form {
     margin: 0 auto;
     border: 2px solid #000000;
 }
-
 .form-group {
     margin-bottom: 20px;
 }
