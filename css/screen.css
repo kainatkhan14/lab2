@@ -46,3 +46,9 @@ input[type="submit"] {
     cursor: pointer;
     font-size: 16px;
 }
+@media only screen and (min-width: 800px){
+  #info{
+    width: 65%;
+    flex-wrap: nowrap;
+  }
+}
